@@ -7,8 +7,10 @@
 
 .section1 {
     background-color: firebrick;
+    padding: 100px;
 }
 
 .section2 {
     background-color: goldenrod;
+    padding: 100px;
 }
