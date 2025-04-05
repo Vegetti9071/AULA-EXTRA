@@ -1,18 +1,24 @@
+.Corpodosite{
+    color: white;
+}
+
 .cabecalho {
-    background-image: gray
+    background-image:linear-gradient(gray) gray
     color: aliceblue;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-image: gray
+    background-image:linear-gradient(black,gray);
+    
     padding: 200px;
 }
 
 .section2 {
-    background-image: gray
+    background-image:linear-gradient(gray) gray
     padding: 200px;
+
 }
 
 .cabecalho-imagem{
@@ -20,5 +26,5 @@
 }
 
 .rodape{
-    background-image:  gray
+    background-image:linear-gradient(gray)  gray
 color: white;}
