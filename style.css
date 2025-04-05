@@ -1,17 +1,17 @@
 .cabecalho {
-    background-color: royalblue;
+    background-image: gray
     color: aliceblue;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: firebrick;
+    background-image: gray
     padding: 200px;
 }
 
 .section2 {
-    background-color: goldenrod;
+    background-image: gray
     padding: 200px;
 }
 
@@ -20,5 +20,5 @@
 }
 
 .rodape{
-    background-color: black;
+    background-image:  gray
 color: white;}
