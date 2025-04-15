@@ -2,11 +2,14 @@
     color: white;
 }
 
+
+
 .cabecalho {
-    background-image:linear-gradient(gray) gray
-    color: aliceblue;
+    background-image: linear-gradient(gray) gray
+    color: white
     display: flex;
     padding: 24px 0;
+ju
 }
 
 .section1 {
