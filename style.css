@@ -6,7 +6,6 @@
 
 .cabecalho {
     background-image: linear-gradient(gray) gray
-    color: white
     display: flex;
     padding: 24px 0;
 ju
@@ -14,13 +13,15 @@ ju
 
 .section1 {
     background-image:linear-gradient(black,gray);
-    
     padding: 200px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
 }
 
 .section2 {
     background-image:linear-gradient(gray) gray
-    padding: 200px;
+    padding: 100px;
 
 }
 
@@ -30,4 +31,10 @@ ju
 
 .rodape{
     background-image:linear-gradient(gray)  gray
-color: white;}
+     
+
+}
+
+.section1{
+    padding-left: 80px;
+}
